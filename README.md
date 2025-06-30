@@ -1,1 +1,1 @@
-# srm-ap-genai-2024
+# srm-ap-genai-2025
